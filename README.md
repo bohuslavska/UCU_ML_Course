@@ -1,6 +1,8 @@
 **About the Project**
 
-This repository contains **the final project for the UCU Machine Learning course**, which focuses on leveraging advanced analytics to combat disinformation. The project consists of two important parts: (1) the Mantis Analytics transformer (under NDA), which is capable of detecting and classifying 18 propaganda techniques, and (2) the RAG pipeline, which explains these techniques by retrieving relevant information from the knowledge base. The primary goal is to equip end users — mainly journalists and fact-checkers — with tools that not only label and extract relevant text snippets but also explain their classifications.
+This repository contains **the final project for the UCU Machine Learning course**, which focuses on leveraging advanced analytics to combat disinformation. 
+
+The project consists of two important parts: (1) the Mantis Analytics transformer (under NDA), which is capable of detecting and classifying 18 propaganda techniques, and (2) the RAG pipeline, which explains these techniques by retrieving relevant information from the knowledge base. The primary goal is to equip end users — mainly journalists and fact-checkers — with tools that not only label and extract relevant text snippets but also explain their classifications.
 
 The inspiration for the project comes from the 2019 research paper "Fine-Grained Analysis of Propaganda in News Articles" by Giovanni Da San Martino et al. This paper identifies manipulation techniques commonly found in various media outlets. Our solution extends this research by incorporating a dataset focused on Russian media manipulations to train the model, which has achieved high validation metrics.
 
